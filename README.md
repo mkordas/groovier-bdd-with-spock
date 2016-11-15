@@ -1,7 +1,7 @@
 # Groovier BDD with Spock
 
 * typical Apple product: iPhone - one button, white cover and desperate people
- sleeping on the streets in front of iStores just to get one
+ in front of iStores sleeping on the streets just to get one
 * Google Search - one text box, one button, but of billions of searches every
  day and billions of dollars of income every month
 * product that we work on - lots of buttons, weird logic, complexity, mess...
