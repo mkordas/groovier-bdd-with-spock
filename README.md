@@ -22,8 +22,9 @@ It's not the hardcore algorithm hacking as it used to be before.
 
 Life is simple, right? Not really. We all know that picture...
 
-But it isn't about problem with technology.
-It isn't because they chose Closure as the programming language.
+My question is: is it because problem with technology?
+Is it because they chose Java Script as the programming language?
+I wouldn't say so.
 It's all about people's problem and communication issues.
 
 Actually, there's just one problem in software development...
