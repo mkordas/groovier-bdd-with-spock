@@ -1,0 +1,7 @@
+Given a vending machine
+When I insert $2
+Then I have $2 credit
+
+Given a vending machine
+When I insert $5 and $10
+Then I have $15 credit
